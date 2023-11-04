@@ -1,3 +1,21 @@
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://github.com/Karrakurt/TheOtherRolesRu/releases/download/ver_4.4.2/TheOtherRoles.4.4.2.7z">ЗАГРУЗИТЬ ВЕРСИЮ 4.4.2</a><br>
+    </b>
+</h1>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+
 ![eisbison banner](./Images/TOR_logo.png)
 <p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
 
