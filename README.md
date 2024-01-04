@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://github.com/Karrakurt/TheOtherRolesRu/releases/download/ver_4.4.2/TheOtherRoles.4.4.2.7z">ЗАГРУЗИТЬ ВЕРСИЮ 4.4.2</a><br>
+        <a href="https://github.com/Karrakurt/TheOtherRolesRu/releases/download/ver_4.5.1/TheOtherRoles.7z">ЗАГРУЗИТЬ ВЕРСИЮ 4.5.1</a><br>
     </b>
 </h1>
 <p>
